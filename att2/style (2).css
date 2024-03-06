@@ -1,11 +1,11 @@
 .div01 {
-    background-color: #ffcc99;
+    background-color: #993399;
     width: 500px;
     height: 500px;
 }
 
 .div02 {
-    background-color: #90ee90;
+    background-color: #ffcbdb ;
     width: 250px;
     height: 250px;
 
@@ -13,7 +13,7 @@
 
 .p {
     color: white;
-    background-color: red;
+    background-color: green;
     font-size: 25px;
     font-family: monospace;
     font-weight: bold;
@@ -25,11 +25,11 @@
 .div03 {
     width: 50%;
     height: 50vh;
-    background-color: rgb(135, 206, 250)
+    background-color: rgb(139, 21, 250)
 }
 
 .div04 {
     width: 75vw;
     height: 50%;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 90, 0);
 }
